@@ -1,4 +1,4 @@
-n this project, we leverage Amazon Web Services (AWS) to build an automated blog generation system that utilizes serverless architecture and AI capabilities. By integrating AWS Lambda, Amazon Bedrock, API Gateway, and Amazon S3, we create a scalable and cost-effective solution for dynamic content creation.
+In this project, we leverage Amazon Web Services (AWS) to build an automated blog generation system that utilizes serverless architecture and AI capabilities. By integrating AWS Lambda, Amazon Bedrock, API Gateway, and Amazon S3, we create a scalable and cost-effective solution for dynamic content creation.
 
 Components and Workflow:
 
